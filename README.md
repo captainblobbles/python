@@ -1,2 +1,2 @@
 # python
-projects in python
+**Various beginner activities and exercises in Python.**
